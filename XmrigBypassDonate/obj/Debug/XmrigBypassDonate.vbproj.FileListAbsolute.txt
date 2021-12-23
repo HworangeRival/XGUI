@@ -1,0 +1,16 @@
+C:\Users\Wheel\Desktop\XmrigBypassDonate\XmrigBypassDonate\obj\Debug\XmrigBypassDonate.vbproj.GenerateResource.Cache
+C:\Users\Wheel\Desktop\XmrigBypassDonate\XmrigBypassDonate\bin\Debug\XMRigGui.exe.config
+C:\Users\Wheel\Desktop\XmrigBypassDonate\XmrigBypassDonate\obj\Debug\XMRigGui.xml
+C:\Users\Wheel\Desktop\XmrigBypassDonate\XmrigBypassDonate\bin\Debug\XMRigGui.exe
+C:\Users\Wheel\Desktop\XmrigBypassDonate\XmrigBypassDonate\bin\Debug\XMRigGui.pdb
+C:\Users\Wheel\Desktop\XmrigBypassDonate\XmrigBypassDonate\bin\Debug\XMRigGui.xml
+C:\Users\Wheel\Desktop\XmrigBypassDonate\XmrigBypassDonate\obj\Debug\XMRigGui.exe
+C:\Users\Wheel\Desktop\XmrigBypassDonate\XmrigBypassDonate\obj\Debug\XMRigGui.pdb
+C:\Users\Wheel\Desktop\XmrigBypassDonate\XmrigBypassDonate\obj\Debug\XGUI.About.resources
+C:\Users\Wheel\Desktop\XmrigBypassDonate\XmrigBypassDonate\obj\Debug\XGUI.AggiornaFrm.resources
+C:\Users\Wheel\Desktop\XmrigBypassDonate\XmrigBypassDonate\obj\Debug\XGUI.MainCntrlFrm.resources
+C:\Users\Wheel\Desktop\XmrigBypassDonate\XmrigBypassDonate\obj\Debug\XGUI.MinPool.resources
+C:\Users\Wheel\Desktop\XmrigBypassDonate\XmrigBypassDonate\obj\Debug\XGUI.SettFrm.resources
+C:\Users\Wheel\Desktop\XmrigBypassDonate\XmrigBypassDonate\obj\Debug\XGUI.StartFormLogo.resources
+C:\Users\Wheel\Desktop\XmrigBypassDonate\XmrigBypassDonate\obj\Debug\XGUI.Resources.resources
+C:\Users\Wheel\Desktop\XmrigBypassDonate\XmrigBypassDonate\obj\Debug\XGUI.AlgoFrm.resources
