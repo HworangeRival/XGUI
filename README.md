@@ -19,7 +19,7 @@ by ..:: Hworange Rival ::..
 
 💻 - How To Use:
 
- - Download XMRIG Miner from developer site (http://github.com/xmrig/xmrig).
+ - Download XMRIG Miner from developer site (https://github.com/xmrig/xmrig/releases).
  - Copy the gui in the main folder of miner, where you see the xmrig.exe.
  - If you would edit the setting file in Config folder!!
  
